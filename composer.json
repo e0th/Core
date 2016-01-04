@@ -1,0 +1,22 @@
+{
+  "name": "e0th/Core",
+  "type": "framework",
+  "description": "php micro-framework",
+  "homepage": "https://github.com/e0th/Core",
+  "license": "MIT",
+  "authors": [
+    {
+      "email": "e0th@protonmail.com",
+      "homepage": "https://github.com/e0th",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Core": "src"
+    }
+  }
+}
